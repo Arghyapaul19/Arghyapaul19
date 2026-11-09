@@ -60,7 +60,7 @@ To become a skilled technology professional by combining cybersecurity, artifici
 
 ---
 
-## 📊 GitHub Statistics
+
 ## 📊 GitHub Statistics
 
 <p align="center">
