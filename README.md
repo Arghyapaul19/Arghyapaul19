@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" alt="Arghya Paul - Computer Applications Student" />
+</p>
 # 👋 Hey, I'm Arghya Paul!
 
 ### 💻 Computer Applications Student | Cybersecurity Enthusiast | AI & ML Explorer | IoT Developer
