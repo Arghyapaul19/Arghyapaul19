@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" width="100%" alt="Arghya Paul - Computer Applications Student" />
+  <img src="Arghya Paul_ Code, Build, Innovate.png" width="100%" alt="Arghya Paul - Computer Applications Student" />
 </p>
 # 👋 Hey, I'm Arghya Paul!
 
