@@ -61,10 +61,12 @@ To become a skilled technology professional by combining cybersecurity, artifici
 ---
 
 ## 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arghyapaul19&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghyapaul19&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://img.shields.io/badge/Profile_Views-250%2B-blue?style=for-the-badge&logo=github" alt="Views" />
+  <img src="https://img.shields.io/badge/Repositories-8%2B-success?style=for-the-badge&logo=git" alt="Repos" />
+  <img src="https://img.shields.io/badge/Main_Language-Python-orange?style=for-the-badge&logo=python" alt="Language" />
 </p>
 
 ## 🔥 GitHub Contribution Streak
