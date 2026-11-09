@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="Arghya Paul_ Code, Build, Innovate.png" width="100%" alt="Arghya Paul - Computer Applications Student" />
+  <img src="./Arghya%20Paul_%20Code,%20Build,%20Innovate.png" width="100%" alt="Arghya Paul - Computer Applications Student" />
 </p>
+
 # 👋 Hey, I'm Arghya Paul!
 
 ### 💻 Computer Applications Student | Cybersecurity Enthusiast | AI & ML Explorer | IoT Developer
@@ -51,25 +52,26 @@ I'm passionate about exploring technology, developing innovative projects, and l
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
-To become a skilled technology professional by combining cybersecurity, artificial intelligence, and intelligent hardware solutions.
-
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories.
+## 🎯 Goal
+
+To become a skilled technology professional by combining cybersecurity, artificial intelligence, and intelligent hardware solutions.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arghyapaul19&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghyapaul19&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arghyapaul19&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arghyapaul19&layout=compact&theme=tokyonight&hide_border=true" height="175" />
 </p>
 
 ## 🔥 GitHub Contribution Streak
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arghyapaul19&theme=tokyonight&hide_border=true" />
+</p>
 
 ## 📈 Contribution Activity Graph
 
@@ -77,8 +79,6 @@ To become a skilled technology professional by combining cybersecurity, artifici
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arghyapaul19&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
+---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Arghyapaul19&theme=tokyonight&hide_border=true" />
-</p>
-
+⭐ Thanks for visiting my profile! Feel free to explore my repositories.
