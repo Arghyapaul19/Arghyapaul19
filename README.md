@@ -1,8 +1,6 @@
 <p align="center">
- <img src="./Arghya%20Paul_%20Code,%20Build,%20Innovate.png" width="100%" alt="Arghya Paul - Cybersecurity and Technology" />
+  <img src="github-banner.png" width="100%" alt="Arghya Paul - Computer Applications Student" />
 </p>
-
-<br/>
 # 👋 Hey, I'm Arghya Paul!
 
 ### 💻 Computer Applications Student | Cybersecurity Enthusiast | AI & ML Explorer | IoT Developer
@@ -27,21 +25,6 @@ I'm passionate about exploring technology, developing innovative projects, and l
 - **AI & ML:** Python, Pandas, Scikit-learn
 - **IoT:** Arduino, Sensors, Embedded Systems
 - **Development Tools:** Git, GitHub, VS Code
-
-## 🚀 Featured Projects
-
-- 🎵 GestureSynth – Hand Gesture Based Music System
-- 🎓 Student Performance Prediction – Machine Learning
-- 🌱 Smart Agriculture Assistant – Arduino & IoT
-
-## 📚 Currently Learning
-
-- Cybersecurity Fundamentals
-- Ethical Hacking
-- Machine Learning Algorithms
-- Arduino & IoT Development
-
-## 🎯 My Goal
 
 ---
 
