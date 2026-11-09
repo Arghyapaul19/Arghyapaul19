@@ -84,6 +84,15 @@ To become a skilled technology professional by combining cybersecurity, artifici
 
 ## 🔥 GitHub Contribution Streak
 
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arghyapaul19&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
+
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Arghyapaul19&theme=tokyonight&hide_border=true" />
 </p>
