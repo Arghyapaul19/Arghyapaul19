@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github-banner.png" width="100%" alt="Arghya Paul - Cybersecurity and Technology" />
+ <img src="./Arghya%20Paul_%20Code,%20Build,%20Innovate.png" width="100%" alt="Arghya Paul - Cybersecurity and Technology" />
 </p>
 
 <br/>
